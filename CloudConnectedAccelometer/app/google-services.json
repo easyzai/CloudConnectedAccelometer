@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "861713491270",
+    "project_id": "acceleormeterapp",
+    "storage_bucket": "acceleormeterapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861713491270:android:a22f4e4b1656f39b46b147",
+        "android_client_info": {
+          "package_name": "com.awaissaikhu.cloudconnectedaccelometer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861713491270-45e6h18qu36st6eu735ppsccac5rdart.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuhu7br4iI95dbLbLDTx-5W2KphY6ITp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861713491270-45e6h18qu36st6eu735ppsccac5rdart.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
